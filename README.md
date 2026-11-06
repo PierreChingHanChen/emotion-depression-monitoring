@@ -1,5 +1,7 @@
 # emotion-depression-monitoring
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23994316.svg)](https://doi.org/10.5281/zenodo.23994316)
+
 Code, derived features and results for the manuscript
 
 > **An emotion-conditioned architecture for multimodal depression risk monitoring with large language models: design and evaluation on public Mandarin interview data**
@@ -70,7 +72,9 @@ All random seeds are fixed (`SEED = 20261106` in `src/common.py`). The full pipe
 
 ## Citation
 
-If you use this code, please cite the paper (citation will be added on publication) and the archived release on Zenodo (DOI to be added).
+If you use this code, please cite the paper (full citation will be added on publication) and the archived release:
+
+> Chen CH, Hsu CY. emotion-depression-monitoring: code, derived features and results for the EATD-Corpus evaluation (v1.0.1). Zenodo. 2026. https://doi.org/10.5281/zenodo.23994316
 
 ## License
 
