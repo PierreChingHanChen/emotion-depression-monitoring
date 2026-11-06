@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+work/
+models/
+# original datasets are not redistributed
+CREMA-D/
+SMP2020-EWECT/
+EATD-Corpus/
+*.wav

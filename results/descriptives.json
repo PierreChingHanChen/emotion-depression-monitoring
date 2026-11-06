@@ -1,0 +1,14 @@
+{
+ "participants": 162,
+ "depressed": 30,
+ "train": 83,
+ "train_depressed": 19,
+ "val": 79,
+ "val_depressed": 11,
+ "sds_depressed_mean": 61.791666666666664,
+ "sds_depressed_sd": 8.098819447103486,
+ "sds_control_mean": 41.98863636363637,
+ "sds_control_sd": 6.788718726173229,
+ "total_audio_h": 2.151837222222222,
+ "mean_answer_s": 15.939534979423868
+}
